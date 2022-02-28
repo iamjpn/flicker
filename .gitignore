@@ -1,0 +1,9 @@
+*.s
+*.sym
+*.lst
+*.pce
+*.o
+*.swp
+tools/fmpreader/fmpreader
+levels/*collisions.h
+picturemap.h
